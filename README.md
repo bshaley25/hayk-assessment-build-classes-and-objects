@@ -12,3 +12,4 @@ Build a Ruby class for a `Building` that:
 Then:
 
 Make objects for the three buildings on this corner. Use a Fermi estimate for the number of tenants.
+
